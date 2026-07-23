@@ -27,4 +27,4 @@
 
 ## 📫 Contact
 - 📧 mehmetgungor2411@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/MehmetGüngör
+- 💼 LinkedIn: https://www.linkedin.com/in/mehmet-güngör-2b2637416
