@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Mehmet Güngör
 
-<!--
-**mehmetgungor2/mehmetgungor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Junior Backend Developer
 
-Here are some ideas to get you started:
+🎓 Computer Programming Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- JavaScript
+- Node.js
+- Express.js
+- SQL
+- Microsoft SQL Server
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+- Docker
+- TypeScript
+- PostgreSQL
+
+---
+
+## 📫 Contact
+- 📧 mehmetgungor2411@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/KULLANICI_ADIN
